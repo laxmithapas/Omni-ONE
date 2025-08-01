@@ -61,7 +61,3 @@ graph LR
 ## 📜 License
 
 MIT © 2023 OmniAI Team
-
----
-
-*Copy and paste this README into any Markdown viewer (GitHub, VS Code, Obsidian, etc.) for best results. The mermaid diagram will render in supported viewers.*
